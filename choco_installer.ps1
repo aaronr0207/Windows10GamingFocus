@@ -38,10 +38,13 @@ choco install steam -y
 choco install goggalaxy -y
 choco install discord -y
 choco install steelseries-engine -y 
-choco install logitechgaming -y
+choco install lghub -y
 choco install epicgameslauncher -y
 choco install obs-studio -y
 choco install ps-remote-play -y
 choco install hwmonitor -y
 choco install blitz.gg -y
 choco install geforce-experience -y
+choco install directx -y
+choco install parsec -y
+choco install gamesavemanager -y
